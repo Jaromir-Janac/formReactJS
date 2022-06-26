@@ -1,0 +1,48 @@
+.card {
+    min-height:70vmin;
+}
+
+.card-text {
+    height: 10vh;
+}
+
+/* @media screen and (orientation: landscape) {
+    .card {
+        min-height: 200vh;
+    }
+}  */
+
+@media screen and (max-width:749.8px) {
+    .card {
+        min-height: auto;
+    }
+    .card-text {
+        height: auto;
+    }
+}
+
+@media screen and (min-width:750px) {
+    .card {
+        min-height:75vmin;
+}
+    
+    .card-text {
+        height: 10vh;
+    }
+}
+@media screen and (min-width:1000px) {
+    .card {
+        min-height:80vmin;
+    }
+}
+
+@media screen and (min-width:1200px) {
+    .card {
+        min-height:90vmin;
+    }
+}
+@media screen and (min-width:1600px) {
+    .card {
+        min-height:auto;
+    }
+} 

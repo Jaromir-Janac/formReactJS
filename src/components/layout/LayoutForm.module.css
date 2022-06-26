@@ -1,0 +1,29 @@
+.formLayout {
+    background-color: rgba(0, 0, 0, .4);
+    padding: 2vh 5vh;
+ 
+}
+
+.formCheck {
+    text-align: start;
+    margin-top: 2vh;
+}
+
+.formComponent {
+    padding: 20px 10px;
+    border: 2px #fff solid;
+    border-radius: 10px;
+}
+
+@media Screen and (max-width:991.98px) {
+    .formLayout {
+        padding: 2vh 2vh;
+    }
+}
+
+@media Screen and (min-width:1200px) {
+    .formLayout {
+        padding: 2vh 10vh;
+    }
+}
+

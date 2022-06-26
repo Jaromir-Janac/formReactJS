@@ -1,0 +1,9 @@
+.main {
+    background: url(../../../public/images/bikeBG.jpg) bottom center / cover no-repeat;
+    max-height: 100vh;
+    overflow-x: hidden;
+    font-size: 1.6rem;
+    color: #fff;
+    text-shadow: #131313;
+    text-align: center;
+  }

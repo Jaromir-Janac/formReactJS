@@ -1,0 +1,21 @@
+.CheckMain {
+    padding-top: 1vh;
+    width: 100%;
+}
+
+.CheckForm {
+    text-align: start;
+    
+}
+.CheckLabel {
+    display: flex;
+    justify-content: flex-start;
+    padding-left: 15px;
+    margin-bottom: 10px;
+    font-size: 2rem;
+}
+
+.CheckImage {
+    padding: 10px 10px;
+    width: 100%;
+}
